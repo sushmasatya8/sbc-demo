@@ -2,5 +2,13 @@ class romm{
 task 120 changes
 a=10
 b=20
+<<<<<<< Updated upstream
 c=30
 }
+=======
+
+}
+task 101 changes
+m1()
+
+d=40
